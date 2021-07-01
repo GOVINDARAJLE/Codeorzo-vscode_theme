@@ -1,0 +1,44 @@
+{
+    "name": "codeorzo",
+    "displayName": "codeorzo",
+    "description": "Codeorzo Dark theme for visual studio code",
+    "version": "0.0.1",
+    "publisher": "Codeorzo",
+    "author": {
+        "name": "GOVINDAR"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/GOVINDARAJLE/Codeorzo-vscode_theme"
+    },
+    "bugs": {
+        "url": "https://github.com/GOVINDARAJLE/Codeorzo-vscode_theme/issues/"
+    },
+    "license": "MIT",
+    "engines": {
+        "vscode": "^1.57.0"
+    },
+    "galleryBanner": {
+        "color": "#151f28",
+        "theme": "dark"
+    },
+    "icon": "icon/codeorzo.png",
+    "categories": [
+        "Themes"
+    ],
+    "keywords": [
+        "codeorzo theme",
+        "dark theme",
+        "matrial design theme",
+        "code theme"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "GovindaR",
+                "uiTheme": "vs-dark",
+                "path": "./themes/GovindaR-color-theme.json"
+            }
+        ]
+    }
+}
