@@ -6,7 +6,7 @@
  ![Visual Studio Marketplace Rating](https://img.shields.io/visual-studio-marketplace/r/codeorzo.codeorzo)
 ![Visual Studio Marketplace Version](https://img.shields.io/visual-studio-marketplace/v/codeorzo.codeorzo)
 ![Visual Studio Marketplace Rating (Stars)](https://img.shields.io/visual-studio-marketplace/stars/ritwickdey.LiveServer)
-![Profile views](https://gpvc.arturio.dev/GOVINDARAJLE)
+![Rating](https://gpvc.arturio.dev/GOVINDARAJLE)
 ![Demo](icon/demo1.png)
 ![Demo](icon/demo2.png)
 ![Demo](icon/demo3.png)
