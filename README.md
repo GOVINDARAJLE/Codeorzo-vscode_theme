@@ -1,12 +1,23 @@
  <h1 align="center"> Codeorzo Vscode Theme</h1>
 
-[![Version](https://vsmarketplacebadge.apphb.com/version/codeorzo.codeorzo.svg?subject=CodeOrzoTheme&colorA=09131b&colorB=ff652f)](https://marketplace.visualstudio.com/items?itemName=codeorzo.codeorzo)
-![Visual Studio Marketplace Installs](https://img.shields.io/visual-studio-marketplace/i/codeorzo.codeorzo)
-![Visual Studio Marketplace Downloads](https://img.shields.io/visual-studio-marketplace/d/codeorzo.codeorzo)
- ![Visual Studio Marketplace Rating](https://img.shields.io/visual-studio-marketplace/r/codeorzo.codeorzo)
-![Visual Studio Marketplace Version](https://img.shields.io/visual-studio-marketplace/v/codeorzo.codeorzo)
-![Visual Studio Marketplace Rating (Stars)](https://img.shields.io/visual-studio-marketplace/stars/ritwickdey.LiveServer)
+
+[![Visual Studio Marketplace Version](https://img.shields.io/visual-studio-marketplace/v/codeorzo.codeorzo?color=5ce1e6&label=CodeOrzo%20Theme&ColorA=151f28&colorB=5ce1e6&style=for-the-badge)](https://marketplace.visualstudio.com/items?itemName=codeorzo.codeorzo)
+![Visual Studio Marketplace Downloads](https://img.shields.io/visual-studio-marketplace/d/codeorzo.codeorzo?style=for-the-badge&colorA=151f28&colorB=5ce1e6)
+![Visual Studio Marketplace Downloads](https://img.shields.io/visual-studio-marketplace/i/codeorzo.codeorzo?style=for-the-badge&colorA=151f28&colorB=5ce1e6)
+![Visual Studio Marketplace Downloads](https://img.shields.io/visual-studio-marketplace/r/codeorzo.codeorzo?style=for-the-badge&colorA=151f28&colorB=5ce1e6)
+![Visual Studio Marketplace Downloads](https://img.shields.io/visual-studio-marketplace/v/codeorzo.codeorzo?style=for-the-badge&colorA=151f28&colorB=5ce1e6)
+![Visual Studio Marketplace Downloads](https://img.shields.io/visual-studio-marketplace/v/codeorzo.codeorzo?style=for-the-badge&colorA=151f28&colorB=5ce1e6)
+
 ![Rating](https://gpvc.arturio.dev/GOVINDARAJLE)
+
+
+
+
+
+
+
+
+
 ![Demo](icon/demo1.png)
 ![Demo](icon/demo2.png)
 ![Demo](icon/demo3.png)
