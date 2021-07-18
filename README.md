@@ -6,7 +6,7 @@
 ![Visual Studio Marketplace Downloads](https://img.shields.io/visual-studio-marketplace/i/codeorzo.codeorzo?style=for-the-badge&colorA=151f28&colorB=5ce1e6)
 ![Visual Studio Marketplace Downloads](https://img.shields.io/visual-studio-marketplace/r/codeorzo.codeorzo?style=for-the-badge&colorA=151f28&colorB=5ce1e6)
 ![Visual Studio Marketplace Downloads](https://img.shields.io/visual-studio-marketplace/v/codeorzo.codeorzo?style=for-the-badge&colorA=151f28&colorB=5ce1e6)
-![Visual Studio Marketplace Downloads](https://img.shields.io/visual-studio-marketplace/v/codeorzo.codeorzo?style=for-the-badge&colorA=151f28&colorB=5ce1e6)
+
 
 ![Rating](https://gpvc.arturio.dev/GOVINDARAJLE)
 
