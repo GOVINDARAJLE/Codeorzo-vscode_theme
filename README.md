@@ -15,6 +15,9 @@
 ![Demo](icon/demo2.png)
 ![Demo](icon/demo3.png)
 
+## Visual Studio Marketplace
+ [![Marketplace](https://avatars.githubusercontent.com/u/6154722?s=100&v=2)](https://marketplace.visualstudio.com/items?itemName=codeorzo.codeorzo)
+
 ## Installation
 
 1. Open the extensions sidebar on Visual Studio Code
@@ -27,5 +30,5 @@
 ## Issues & Suggestions
 
 For any issues or suggestions, please use [GitHub issues](https://github.com/GOVINDARAJLE/Codeorzo-vscode_theme/issues/).
-
+## License
 Also check LICENSE ![MIT LICENSE](https://github.com/GOVINDARAJLE/Codeorzo-vscode_theme/blob/master/LICENSE)
