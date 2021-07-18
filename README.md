@@ -11,13 +11,6 @@
 ![Rating](https://gpvc.arturio.dev/GOVINDARAJLE)
 
 
-
-
-
-
-
-
-
 ![Demo](icon/demo1.png)
 ![Demo](icon/demo2.png)
 ![Demo](icon/demo3.png)
@@ -34,3 +27,5 @@
 ## Issues & Suggestions
 
 For any issues or suggestions, please use [GitHub issues](https://github.com/GOVINDARAJLE/Codeorzo-vscode_theme/issues/).
+
+Also check LICENSE ![MIT LICENSE](https://github.com/GOVINDARAJLE/Codeorzo-vscode_theme/blob/master/LICENSE)
