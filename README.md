@@ -27,6 +27,16 @@
 1. Go to setting and choose color theme (codeorzo)
 1. 🌟🌟🌟🌟🌟 Rate five-stars 😃
 
+## Discussion
+We’re using Discussions as a place to connect with other members of our community. We hope that you:
+   
+   - Ask questions you’re wondering about.
+   - Share ideas.
+   - Engage with other community members.
+   - Welcome others and are open-minded. Remember that this is a community we
+   - build together 💪.
+
+![Discussion](https://github.com/GOVINDARAJLE/Codeorzo-vscode_theme/discussions/1)
 ## Issues & Suggestions
 
 For any issues or suggestions, please use [GitHub issues](https://github.com/GOVINDARAJLE/Codeorzo-vscode_theme/issues/).
