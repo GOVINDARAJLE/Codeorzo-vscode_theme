@@ -6,8 +6,8 @@
 ![Visual Studio Marketplace Downloads](https://img.shields.io/visual-studio-marketplace/i/codeorzo.codeorzo?style=for-the-badge&colorA=151f28&colorB=5ce1e6)
 ![Visual Studio Marketplace Downloads](https://img.shields.io/visual-studio-marketplace/r/codeorzo.codeorzo?style=for-the-badge&colorA=151f28&colorB=5ce1e6)
 ![Visual Studio Marketplace Downloads](https://img.shields.io/visual-studio-marketplace/v/codeorzo.codeorzo?style=for-the-badge&colorA=151f28&colorB=5ce1e6)
-
-
+![GitHub forks](https://img.shields.io/github/forks/GOVINDARAJLE/Codeorzo-vscode_theme?style=for-the-badge&colorA=151f28&colorB=5ce1e6)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/GOVINDARAJLe/Codeorzo-vscode_theme?style=for-the-badge&colorA=151f28&colorB=5ce1e6)
 ![Rating](https://gpvc.arturio.dev/GOVINDARAJLE)
 
 
@@ -42,3 +42,4 @@ We’re using Discussions as a place to connect with other members of our commun
 For any issues or suggestions, please use [GitHub issues](https://github.com/GOVINDARAJLE/Codeorzo-vscode_theme/issues/).
 ## License
 Also check LICENSE ![MIT LICENSE](https://github.com/GOVINDARAJLE/Codeorzo-vscode_theme/blob/master/LICENSE)
+
