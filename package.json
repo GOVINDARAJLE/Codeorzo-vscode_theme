@@ -2,7 +2,7 @@
     "name": "codeorzo",
     "displayName": "codeorzo",
     "description": "Codeorzo Dark theme for visual studio code",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "publisher": "Codeorzo",
     "author": {
         "name": "GOVINDAR"
@@ -22,7 +22,7 @@
         "color": "#151f28",
         "theme": "dark"
     },
-    "icon": "icon/codeorzo.png",
+    "icon": "icon/logo.png",
     "categories": [
         "Themes"
     ],
