@@ -9,18 +9,14 @@
 		"activityBar.activeBorder": "#ffc400",
 		"activityBar.activeBackground": "#ffbb00",
 		"activityBar.inactiveForeground": "#fff",
-		"toolbar.hoverBackground": "#ffd900",
-		
-		
+
+		"toolbar.hoverBackground": "#ffae00a8",		
 		"icon.foreground": "#ffffff",
-
-		
-
 		"badge.background": "#050405",
 		"badge.foreground": "#ffffff",
 		
 		"breadcrumbPicker.background": "#17181d",
-		"button.background": "#deff06",
+		"button.background": "#ffb006",
 		"button.foreground": "#020202",
 		"debugToolBar.background": "#191919",
 		"diffEditor.insertedTextBackground": "#0beb9935",
@@ -31,14 +27,15 @@
 		
 		"editor.background": "#0f0e13",
 		"editor.findMatchBackground": "#d18616bb",
-		"editor.findMatchHighlightBackground": "#d1861655",
+		"editor.findMatchHighlightBackground": "#ff9c07",
 		"editor.findRangeHighlightBackground": "#34294f1a",
-		"editor.hoverHighlightBackground": "#877e00",
-		"editor.lineHighlightBorder": "#161616bf",
-		"editor.rangeHighlightBackground": "#49549539",
+		"editor.hoverHighlightBackground": "#3d3d3db4",
+		//line highlight
+		"editor.lineHighlightBackground": "#1a1b1b",
+
 		"editor.selectionBackground": "#ffffff20",
-		"editor.selectionHighlightBackground": "#ffffff20",
-		"editor.wordHighlightBackground": "#c3bfcc88",
+		"editor.selectionHighlightBackground": "#201f1dbd",
+		"editor.wordHighlightBackground": "#1a191b88",
 		"editor.wordHighlightStrongBackground": "#0d0c1188",
 		"editorBracketMatch.background": "#e0e0e066",
 		"editorBracketMatch.border": "#13151b",
@@ -130,7 +127,8 @@
 		"sideBar.border":"#23544f2a",
 		"sideBarSectionHeader.background": "#181620",
 		"sideBarSectionHeader.foreground": "#ffffff",
-		"statusBar.background": "#242029",
+		
+		"statusBar.background": "#211e23",
 		"statusBar.debuggingBackground": "#f2ff00",
 		"statusBar.debuggingForeground": "#08080f",
 		"statusBar.foreground": "#ffffffd9",
@@ -163,7 +161,9 @@
 		"terminal.selectionBackground": "#00ff3339",
 		"terminalCursor.background": "#901919",
 		"terminalCursor.foreground": "#03f903",
-		
+		"terminal.tab.activeBorder": "#ff9100",
+
+
 		"textLink.activeForeground": "#ffffff",
 		"textLink.foreground": "#fdff6e",
 		"symbolIcon.textForeground": "#ff0000",
@@ -174,7 +174,11 @@
 	
 		"notifications.background": "#1919173e",
 		"notifications.foreground": "#fff",
-		
+	"welcomePage.progress.background": "#1a1a1b",
+	"welcomePage.progress.foreground": "#fdff6e",
+	"welcomePage.tileBackground": "#171520dc",
+		"welcomePage.tileHoverBackground": "#1c1927dc",
+		"welcomePage.tileShadow.": "#3a3b3b",
 	},
 	"tokenColors": [
 		{
